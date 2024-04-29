@@ -1,9 +1,9 @@
-package hiGit;
+Package higit; 
 
-public class HiGit {
+public class HiGit { 
 
-	public static void (tring[] args) {
-		system.out.print("Hello world IIS ");
+	public static void main (string[] args) {
+		system.out.print("Hello World IIs ");
 
 	}	
 
