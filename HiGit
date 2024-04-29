@@ -1,10 +1,10 @@
-Package higit; 
+Package higit;
 
-public class HiGit { 
+public class HiGIT {
 
 	public static void main (string[] args) {
-		system.out.print("Hello World IIs ");
+		system.out.print("Hello world IIS ");
 
-	}	
+	}
 
 }
