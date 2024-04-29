@@ -1,5 +1,7 @@
 Package higit;
 
+public class hiGit { 
+
 public class HiGIT {
 
 	public static void main (string[] args) {
